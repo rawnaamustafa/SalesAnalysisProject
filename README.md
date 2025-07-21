@@ -2,7 +2,7 @@
 
 This repository contains:
 
-- ** Excel Files** for pivot table analysis.
+- **Excel Files** for pivot table analysis.
 - **PowerPoint File as PDF** for reporting and visual presentation.
 
 ## Project Overview

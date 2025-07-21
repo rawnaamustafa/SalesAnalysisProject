@@ -2,14 +2,15 @@
 
 This repository contains:
 
-- **Excel Files** for pivot table analysis.
+- **Excel File** for pivot table analysis.
 - **PowerPoint File as PDF** for reporting and visual presentation.
 
 ## Project Overview
 This project aims to explore sales data using pivot tables and visualize key metrics through professional reporting slides.
 
 ## Tools Used
-- Microsoft Excel (pivot table creation, and analysis)
+- Microsoft Excel (pivot table creation, and analysis).
+- Canva for reporting.
 
 ## File Structure
 - `p1.xlsx`, `p2.xlsx`, ..., `pn.xlsx`: Excel files containing pivot table creation and analysis.
